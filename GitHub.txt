@@ -1,0 +1,40 @@
+GitHub: 
+``````
+ 1.  Initialize the Git 	- git init
+ 2.  Select the Repository 	- git remote add origin https://github.com/shiffananazeema/Python_Full_Stack.git
+ 3.  Set different url      - git remote set-url origin https://github.com/shiffananazeema/Python-Full-Stack.git
+ 4.  Select the Branch		- git branch -M main   
+ 5.  Add the Changes		- git add .
+ 6.  Commit the Changes		- git commit -m "NametheChange"
+ 7.  Push the Changes		- git push / git push origin main
+ 8.  Pull the Changes		- git pull   / git pull origin main
+ 9.  Cloning 			    - git clone link
+10.  Merge with branch		- git merge bname
+11.  Checkout the Changes	- git checkout  / git checkout -b bname
+12.  Status of the git		- git status
+13.  History of Changes		- git log 
+14.  Reset the Changes		- git reset / git reset <commit> / git reset --hard
+15.  Differcence Changed	- git diff
+16.  Fetching all the files	- git fetch / git fetch bname / git fetch --all
+
+  -  Exit git log		- q / z
+
+
+USUAL STEPS:
+1. git init
+2. git add .
+3. git commit -m "commit"
+4. git push
+
+[Add remote command if repository is not selected as 4]
+
+If Permission Denied:
+Setting > Developer Option > Generate Token
+git remote set-url origin https://token@github.com/username/repository.git 
+
+
+Initialize remote-add branch, 
+add commit push pull, 
+clone merge, 
+checkout status log,
+reset differnce fetch

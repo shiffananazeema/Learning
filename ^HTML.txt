@@ -1,0 +1,11 @@
+HTML
+`````
+HyperText Markup Language - Structure and Organize the content on a Web page
+
+Key Concepts
+````````````
+HTML is not Case Sensitive
+Elements   - It contains Opening and Closing tag, Content and Attributes (What it is)
+Tags       - Marks the beginning and end of Elements, enclosed in <Angle Brackets> (Where it starts and ends)
+Attributes - Provides additional information, placed within the Opening Tags (Extra information or behavior)
+

@@ -1,10 +1,35 @@
 Things to Learn
 ````````````````
-Python Full Stack
+Full Stack Development: ^
+``````````````````````
+Python 		 - 0
+Django 		 - 0
+HTML		 - 0
+CSS			 - 0
+JavaScript	 - 0
+ReactJS 	 - 0
+PostgreSQL 	 - 0
+MongoDB		 - 0
+GitHub 		 - 1
+RESTful APIS - 0
+Pytest		 - 0
+AWS			 - 0
+Docker		 - 0
 
-iOS Development
+iOS Development: !
+````````````````
+Objective C - 0
+Swift   	- 0    
 
-Cyber Security
+Cyber Security: $
+```````````````
+
+More Skills:
+```````````
+JQuery		- 0
+Java 		- 0
+
+
 
 
 

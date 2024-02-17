@@ -9,3 +9,24 @@ Elements   - It contains Opening and Closing tag, Content and Attributes (What i
 Tags       - Marks the beginning and end of Elements, enclosed in <Angle Brackets> (Where it starts and ends)
 Attributes - Provides additional information, placed within the Opening Tags (Extra information or behavior)
 
+<!DOCTYPE html> - Defines the document type and version of HTML
+<html> </html>  - Wraps the entire HTML documents
+<head> </head>  - Contains meta-information about the page such as Title,Stylesheet, Scripts
+<title> <title> - Sets the title of the document, which appears in the browsers title bar or tab
+<body> </body>  - Represents the main body of the Web Page
+<!-- Comment -->
+<br>            - Breaks the line
+<p> </p>        - Used for Paragraphs
+<h1> to <h6>    - Used for Headings from H1 to H
+<ul> <ol> <li>  - Unordered List (*), Ordered List (1) and List should be be
+
+<table></table> - Represents a table, which is made up of rows and columns
+<tr> </tr>      - Represents a table row
+<td> </td>      - Represents a table data(cell)
+<th> </th>      - Represents a table header
+<thead></thead> - Tag to add a table head
+<tbody></tbody> - Tag to add a table body
+<tfoot></tfoot> - Tag to add a table footer
+
+
+<div> </div>    - A container used to group other elements together
